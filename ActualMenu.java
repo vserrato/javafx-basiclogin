@@ -68,7 +68,7 @@ public class ActualMenu extends Pane {
 	
 
 	public String getUser() {
-		return name.getText();
+		return this.name.getText();
 	}
 
 	public String getPassword() {
